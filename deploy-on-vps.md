@@ -46,14 +46,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="94767533889"
+      OWNER_NUMBER="254739937062,254710772666"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "secktorbot.herokuapp.com/session"
-      THUMB_IMAGE = "https://telegra.ph/file/cf19902f6b57a00fcd56b.jpg"
+      THUMB_IMAGE = "https://telegra.ph/file/3473070cc639055aa615e.jpg"
       port = 5000
       email = "sam@secktor.live"
-      global_url = "instagram.com"
-      OWNER_NAME = "Vajira / Amda"
+      global_url = "https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"
+      OWNER_NAME = "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 92
       READ_MESSAGE = false
@@ -65,7 +65,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= SECKTOR
       WORKTYPE = public
-      PACK_INFO = "Vajira;Amda"
+      PACK_INFO = "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔"
       ANTILINK_VALUES = "chat.whatsapp.com"
 
       ```
