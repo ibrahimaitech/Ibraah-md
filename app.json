@@ -1,14 +1,14 @@
 {
-  "name": "SAVIYA-MD by excel ",
+  "name": "𝗕𝗟𝗔𝗖𝗞-𝗣𝗔𝗡𝗧𝗛𝗘𝗥-𝗠𝗗 ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/e7ff19ea6b6ee33f66936.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "SaviyaBot", "Secktor","SAVIYAMD","theme bot","multi device","baileys","excel"],
+  "logo": "https://telegra.ph/file/85fbb117198be75c500ef.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "BlackpantherBot", "Panthermd","blackMD","IbrahimAdams","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Saviya"
+      "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -21,6 +21,7 @@
 	"AUTO_READ_STATUS": {
       "description": "Automatically read status of every person and sends in log number.",
        "required" :false
+        "value" : "true"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
@@ -32,7 +33,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/cf19902f6b57a00fcd56b.jpg"
+     "value": "https://telegra.ph/file/3473070cc639055aa615e.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -51,7 +52,7 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
     "SUDO": {
     "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94722617699",
@@ -60,7 +61,7 @@
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
    "DISABLE_PM": {
     "description": "Disable bot in pm",
@@ -72,7 +73,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94722617699"
+       "value": "254739937062,254710772666"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@savigaming2009/SAVIYA-MD-BOT-QR"
@@ -88,7 +89,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are DARK-MD and many more..",
-     "value": "SAVIYA"
+     "value": "ADAM"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -101,7 +102,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "Saviya",
+     "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
      "required": false 
   },
   "heroku": {
